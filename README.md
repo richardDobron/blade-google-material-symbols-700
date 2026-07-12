@@ -14,6 +14,10 @@
 A package to easily make use of Google's Material Symbols in your Laravel Blade views.  
 For a full list of available icons you can preview them at [Material Symbols](https://fonts.google.com/icons?icon.set=Material+Symbols).
 
+```bash
+composer require richarddobron/blade-google-material-symbols-700
+```
+
 ## Requirements
 
 - PHP 7.4 or higher
