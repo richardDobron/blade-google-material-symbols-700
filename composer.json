@@ -44,7 +44,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "dobron\\BladeMaterialSymbols\\BladeGoogleMaterialDesignSymbols100ServiceProvider"
+                "dobron\\BladeMaterialSymbols\\BladeGoogleMaterialDesignSymbols700ServiceProvider"
             ]
         }
     }
